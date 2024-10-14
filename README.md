@@ -2,10 +2,8 @@
 
 <h2>Description</h2>
 For this section of the practical you will find the Signals and Systems textbook and hand-
-out Sampled Signals, the DTFT and the DFT useful. In an experimental situation we of-
-ten measure a time-series which we want to Fourier transform to obtain a spectrum, or a
-
-frequency-dependent quantity which we wish to inverse Fourier transform in order to retrieve
+out Sampled Signals, the DTFT and the DFT useful. In an experimental situation we of
+ten measure a time-series which we want to Fourier transform to obtain a spectrum, or a frequency-dependent quantity which we wish to inverse Fourier transform in order to retrieve
 a time-dependent quantity. This requires us to perform a Discrete Fourier Transform (DFT),
 which is usually calculated using the Fast Fourier Transform (FFT) algorithm (Brigham). The
 DFT (and therefore the FFT) work on a finite number N data samples, and return the same
